@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rob Spielman
 - 👀 I’m interested in helping on active open source analytics tools
-- 🌱 I’m currently learning ffn-polars
+- 🌱 I’m currently working on ffn-polars
 - 📫 rwspielman@gmail.com
 
 <!---
